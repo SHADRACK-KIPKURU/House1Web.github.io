@@ -1,0 +1,17 @@
+.image{
+    height: 200px;
+    width: 200px;
+}
+.house-image {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    max-height: 300px;
+    max-width: 300px;
+}
+.house-title{
+    margin-top: 30px;
+}
+.price{
+    font-weight: bold;
+}
